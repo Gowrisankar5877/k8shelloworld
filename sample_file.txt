@@ -1,0 +1,2 @@
+A sample feature is added in the developer branch
+Adding additional lines to the file
